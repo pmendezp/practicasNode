@@ -1,0 +1,37 @@
+{
+  "name": "practicasnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmendezp/practicasNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmendezp/practicasNode/issues"
+  },
+  "homepage": "https://github.com/pmendezp/practicasNode#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "jquery": "^3.2.1",
+    "socket.io": "^2.0.4",
+    "socket.io-client": "^2.0.4",
+    "underscore": "^1.8.3",
+    "ws": "^3.3.3"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-browserify": "^5.2.0",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-less": "^1.4.1"
+  }
+}
